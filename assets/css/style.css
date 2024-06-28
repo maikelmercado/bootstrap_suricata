@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Open Sans",sans-serif;
+}
+
+/*dos puntos seudo clase*/
+:root{
+     --main-bg-color:#e83e8c;
+
+}
+.navbar{
+    background: var(--main-bg-color);
+}
+
+.navbar-brand img{
+    height: 2.5rem;
+}
+h1{
+    color: #707070;
+    font-weight: 700;
+}
+#ahora-aceptamos{
+    background: #2a20df;
+}
